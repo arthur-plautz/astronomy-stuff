@@ -1,0 +1,2 @@
+
+DATALAKE = '/usr/local/datalake'
